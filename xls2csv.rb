@@ -9,7 +9,7 @@ options = {
   remove_empty_rows:   false,
 }
 optionparser = OptionParser.new do |opts|
-  opts.banner = "Usage: #{File.basename(__FILE__)} -f <inputfile> [options]\n" +
+  opts.banner = "Usage: ruby #{File.basename(__FILE__)} -f <inputfile> [options]\n" +
                 "Reads an XLS file and converts every worksheet to a csv file\n\n"
 
   opts.on('-f filename', "Path to the XLS file") do |file|

@@ -1,11 +1,11 @@
-# xls2csv
+# xlstocsv
 
-xls2csv is a simple Ruby script which converts a given xls File to a set of csv files.
+xlstocsv is a simple Ruby script which converts a given xls File to a set of csv files.
 
 ## Usage
 
 ```bash
-Usage: ruby xls2csv.rb -f <inputfile> [options]
+Usage: ruby xlstocsv.rb -f <inputfile> [options]
 Reads an XLS file and converts every worksheet to a csv file
 
     -f filename                      Path to the XLS file

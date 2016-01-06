@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    xlstocsv (0.0.1)
+      spreadsheet (~> 1.1.1)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -9,4 +15,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  spreadsheet (~> 1.1.1)
+  xlstocsv!
+
+BUNDLED WITH
+   1.10.6

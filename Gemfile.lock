@@ -7,7 +7,7 @@ PATH
 GEM
   remote: http://rubygems.org/
   specs:
-    rake (10.4.2)
+    rake (13.0.1)
     ruby-ole (1.2.12)
     spreadsheet (1.1.1)
       ruby-ole (>= 1.0)
@@ -16,8 +16,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rake (~> 10.4.1)
+  rake (~> 13.0.1)
   xlstocsv!
 
 BUNDLED WITH
-   1.10.6
+   1.17.3

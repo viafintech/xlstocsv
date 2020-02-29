@@ -12,5 +12,5 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'spreadsheet', '~> 1.1.1'
 
-  s.add_development_dependency 'rake', '~> 10.4.1'
+  s.add_development_dependency 'rake', '~> 13.0.1'
 end

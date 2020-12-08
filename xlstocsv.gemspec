@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.version     = '0.0.1'
   s.date        = '2016-01-06'
   s.summary     = 'Convert XLS files to CSV files'
-  s.authors     = ['Cash Payment Solutions GmbH']
-  s.email       = 'tobias.schoknecht@barzahlen.de'
+  s.authors     = ['Tobias Schoknecht']
+  s.email       = 'tobias.schoknecht@viafintech.com'
   s.homepage    = 'https://github.com/Barzahlen/xlstocsv'
   s.license     = 'MIT'
   s.executables << 'xlstocsv'
